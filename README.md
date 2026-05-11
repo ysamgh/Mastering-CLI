@@ -103,3 +103,7 @@
 ## ۶. ویرایشگر متن در ترمینال
 - `nano file_name`: ویرایشگر ساده و سریع.
 - `vim file_name`: ویرایشگر حرفه‌ای (Esc + :wq برای ذخیره و خروج).
+
+
+
+~/.acme.sh/acme.sh --renew -d core2.tamin.sbs --server letsencrypt --debug 2
